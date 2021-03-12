@@ -1,4 +1,4 @@
-package gitMinSubTest01;
+package kosta.mvc.view;
 
 public class MainView {
 
